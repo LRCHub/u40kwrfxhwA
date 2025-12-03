@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "宣誓！ALIVE センセーション",
+  "base_artist": "源さくら",
+  "createdAt": "2025-12-03T20:23:35.010957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宣誓！ALIVE センセーション",
+      "artist": "源さくら",
+      "has_synced": true,
+      "path": "select/01_宣誓!ALIVE_センセーション_源さくら.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宣誓! ALIVE センセーション",
+      "artist": "源さくら (本渡楓)",
+      "has_synced": true,
+      "path": "select/02_宣誓!_ALIVE_センセーション_源さくら_(本渡楓).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宣誓!ALIVE センセーション",
+      "artist": "源さくら",
+      "has_synced": false,
+      "path": "select/pl_01_宣誓!ALIVE_センセーション_源さくら.txt"
+    }
+  ]
+}
